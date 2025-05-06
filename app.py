@@ -5,17 +5,28 @@ import random
 app = Flask(__name__)
 
 
-def load_information(path):
-    with open(path, 'r', encoding= 'utf-8') as f:
-        return json.loads(f.read())
+class Question:
+    def __init__(self, question, answer, options):
+        self.question = question
+        self.index = 0
+        self.answer = answer
+        self.options = options
 
+    def load_information(self, path):
+        with open(path, 'r', encoding= 'utf-8') as f:
+            return json.loads(f.read())
+        
+    def get_set_of_questions(self, path):
+        questions = self.load_information(path)
+        question_list = []
+        for question in questions:
+            question_list.append(Question(question["question"], question["answer"], question["options"]))
+        return question_list
 
 @app.route("/")
 def home():
-    questions = load_information("categories/films.json")
     message = "Hello you are Thomas"
     signe  = 0 
-    print(questions)
     return render_template("index.html", message = message, signe = signe)
 
 @app.route("/login")
@@ -41,5 +52,11 @@ def error():
 
 
 if __name__ == "__main__":
+
+    # Load the JSON file to check if it is valid
+    question = Question("", "", [])
+
+    print(question.load_information("categories/films.json"))
     
+
     app.run(debug=True)
