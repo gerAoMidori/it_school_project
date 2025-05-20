@@ -1,2 +1,2 @@
-# it_school_project
+**Quizz**
 This is a school project I'm building with my classmate 
