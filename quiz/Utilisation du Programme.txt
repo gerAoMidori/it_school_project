@@ -1,0 +1,14 @@
+Dans le terminal, tapez la commande suivante :
+
+
+pip install django  
+
+Une fois cela fait, décompressez les fichiers dans un répertoire.
+Rendez-vous ensuite dans ce répertoire et tapez la commande :
+
+
+python manage.py runserver 
+ 
+Une fois cela fait, à l'aide de votre navigateur, rendez-vous à l'adresse suivante :
+
+http://127.0.0.1:8000/

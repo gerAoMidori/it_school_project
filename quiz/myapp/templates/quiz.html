@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ quiz_name }}</title>
+    <style>
+        
+    body {
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.quiz-container {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%; /* Utilise une unité relative */
+    max-width: 600px; /* Ajoute une largeur maximale */
+    padding: 20px;
+    text-align: center;
+}
+
+.quiz-title {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.question-box {
+    background-color: #e1f5fe;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.question {
+    font-size: 1.2em;
+    color: #333;
+}
+
+.answers {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Adaptatif */
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.answer {
+    background-color: #263238;
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.answer:hover {
+    background-color: #37474f;
+}
+
+.next-button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.next-button:hover {
+    background-color: #555;
+}
+
+    </style>
+
+</head>
+<body>
+    <div class="quiz-container">
+        <h1 class="quiz-title">Type de quiz : {{ quiz_name }}</h1>
+        <div class="question-box">
+                    <p class="question">{{ question_text }}</p>
+                    </div>
+                        <div class="answers">
+                            <form method="post" action="{% url 'submit_answer' %}">
+                                {% csrf_token %}
+                                {% for answer in answers %}
+                                    <button class="answer" type="submit" name="answer" value="{{ answer }}">{{ answer }}</button>
+                                {% endfor %}
+                            </form>
+                        </div>
+                    </div>
+                
+            
+</body>
+</html>

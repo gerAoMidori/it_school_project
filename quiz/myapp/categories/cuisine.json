@@ -1,0 +1,233 @@
+[
+  {
+    "question": "Quel est l'ingrédient principal du guacamole ?",
+    "answer": "Avocat",
+    "false_one": [
+      "Tomate",
+      "Oignon",
+      "Poivron",
+      "Citron",
+      "Ail"
+    ]
+  },
+  {
+    "question": "Quel fromage est utilisé pour la préparation de la fondue savoyarde ?",
+    "answer": "Gruyère",
+    "false_one": [
+      "Camembert",
+      "Brie",
+      "Roquefort",
+      "Chèvre",
+      "Emmental"
+    ]
+  },
+  {
+    "question": "Quelle est la base de la sauce béchamel ?",
+    "answer": "Beurre, farine, lait",
+    "false_one": [
+      "Beurre, lait, œufs",
+      "Farine, lait, fromage",
+      "Beurre, crème, farine",
+      "Crème, œufs, lait",
+      "Beurre, lait, fromage"
+    ]
+  },
+  {
+    "question": "Quel est le plat national du Japon ?",
+    "answer": "Sushi",
+    "false_one": [
+      "Ramen",
+      "Tempura",
+      "Sashimi",
+      "Udon",
+      "Takoyaki"
+    ]
+  },
+  {
+    "question": "Quel est l'ingrédient principal du houmous ?",
+    "answer": "Pois chiches",
+    "false_one": [
+      "Lentilles",
+      "Haricots rouges",
+      "Pois cassés",
+      "Aubergine",
+      "Courgette"
+    ]
+  },
+  {
+    "question": "Quel ingrédient donne sa couleur jaune à la paella ?",
+    "answer": "Le safran",
+    "false_one": [
+      "Le curcuma",
+      "Le paprika",
+      "Le curry",
+      "Le piment doux",
+      "Le cumin"
+    ]
+  },
+  {
+    "question": "Quel plat italien est composé de couches de pâtes, de sauce tomate et de fromage ?",
+    "answer": "Lasagnes",
+    "false_one": [
+      "Cannellonis",
+      "Raviolis",
+      "Spaghetti",
+      "Tagliatelles",
+      "Penne"
+    ]
+  },
+  {
+    "question": "Quel fruit est utilisé pour faire le guacamole ?",
+    "answer": "Avocat",
+    "false_one": [
+      "Tomate",
+      "Mangue",
+      "Banane",
+      "Pomme",
+      "Poire"
+    ]
+  },
+  {
+    "question": "Quel est le principal ingrédient du tzatziki ?",
+    "answer": "Concombre",
+    "false_one": [
+      "Courgette",
+      "Aubergine",
+      "Poivron",
+      "Carotte",
+      "Radis"
+    ]
+  },
+  {
+    "question": "Quel fromage est utilisé dans la salade grecque ?",
+    "answer": "Feta",
+    "false_one": [
+      "Mozzarella",
+      "Chèvre",
+      "Roquefort",
+      "Emmental",
+      "Comté"
+    ]
+  },
+  {
+    "question": "Quel plat est typique du Maghreb et préparé avec de la semoule ?",
+    "answer": "Couscous",
+    "false_one": [
+      "Tajine",
+      "Chakchouka",
+      "Pastilla",
+      "Harira",
+      "Mechoui"
+    ]
+  },
+  {
+    "question": "Quel ingrédient est indispensable dans la ratatouille ?",
+    "answer": "Aubergine",
+    "false_one": [
+      "Pomme de terre",
+      "Carotte",
+      "Petit pois",
+      "Brocoli",
+      "Chou-fleur"
+    ]
+  },
+  {
+    "question": "Quel dessert français est composé de pâte à choux et de crème pâtissière ?",
+    "answer": "Éclair",
+    "false_one": [
+      "Religieuse",
+      "Paris-Brest",
+      "Mille-feuille",
+      "Tarte Tatin",
+      "Opéra"
+    ]
+  },
+  {
+    "question": "Quel plat japonais consiste en du poisson cru sur du riz vinaigré ?",
+    "answer": "Sushi",
+    "false_one": [
+      "Sashimi",
+      "Maki",
+      "Tempura",
+      "Yakitori",
+      "Onigiri"
+    ]
+  },
+  {
+    "question": "Quel est le principal ingrédient du taboulé libanais ?",
+    "answer": "Boulgour",
+    "false_one": [
+      "Semoule",
+      "Riz",
+      "Quinoa",
+      "Orge",
+      "Lentilles"
+    ]
+  },
+  {
+    "question": "Quel plat espagnol est préparé avec du riz, des fruits de mer et du safran ?",
+    "answer": "Paella",
+    "false_one": [
+      "Fideua",
+      "Tortilla",
+      "Gazpacho",
+      "Empanada",
+      "Tapas"
+    ]
+  },
+  {
+    "question": "Quel ingrédient est la base du pesto ?",
+    "answer": "Basilic",
+    "false_one": [
+      "Persil",
+      "Coriandre",
+      "Menthe",
+      "Ciboulette",
+      "Estragon"
+    ]
+  },
+  {
+    "question": "Quel plat indien est à base de riz et d'épices ?",
+    "answer": "Biryani",
+    "false_one": [
+      "Tikka masala",
+      "Korma",
+      "Dhal",
+      "Rogan josh",
+      "Vindaloo"
+    ]
+  },
+  {
+    "question": "Quel est le principal ingrédient du hummus ?",
+    "answer": "Pois chiches",
+    "false_one": [
+      "Lentilles",
+      "Haricots blancs",
+      "Fèves",
+      "Aubergine",
+      "Courgette"
+    ]
+  },
+  {
+    "question": "Quel plat français est préparé avec des œufs, du lait et du fromage ?",
+    "answer": "Quiche",
+    "false_one": [
+      "Omelette",
+      "Clafoutis",
+      "Soufflé",
+      "Tarte flambée",
+      "Gratin dauphinois"
+    ]
+  },
+  {
+    "question": "Quel dessert italien est à base de mascarpone, café et biscuits ?",
+    "answer": "Tiramisu",
+    "false_one": [
+      "Panna cotta",
+      "Cannoli",
+      "Zabaglione",
+      "Cassata",
+      "Gelato"
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "question": "Quel mot-clé est utilisé pour définir une fonction en Python ?",
+        "answer": "def",
+        "false_one": [
+            "function",
+            "fun",
+            "define",
+            "lambda",
+            "proc"
+        ]
+    },
+    {
+        "question": "Comment affiche-t-on du texte à l'écran en Python ?",
+        "answer": "print()",
+        "false_one": [
+            "echo()",
+            "display()",
+            "show()",
+            "write()",
+            "output()"
+        ]
+    },
+    {
+        "question": "Quel symbole est utilisé pour les commentaires en Python ?",
+        "answer": "#",
+        "false_one": [
+            "//",
+            "--",
+            "/* */",
+            "%",
+            "!"
+        ]
+    },
+    {
+        "question": "Quelle est la bonne façon de déclarer une liste en Python ?",
+        "answer": "list = [1,2,3]",
+        "false_one": [
+            "list = (1,2,3)",
+            "list = {1,2,3}",
+            "list = <1,2,3>",
+            "list = 1,2,3",
+            "list = '1,2,3'"
+        ]
+    },
+    {
+        "question": "Quel type de données est retourné par la fonction input() en Python ?",
+        "answer": "str",
+        "false_one": [
+            "int",
+            "float",
+            "bool",
+            "list",
+            "dict"
+        ]
+    },
+    {
+        "question": "Comment déclare-t-on une variable en Python ?",
+        "answer": "x = 5",
+        "false_one": [
+            "var x = 5",
+            "x := 5",
+            "int x = 5",
+            "let x = 5",
+            "x == 5"
+        ]
+    },
+    {
+        "question": "Quel mot-clé permet de répéter un bloc d’instructions tant qu’une condition est vraie ?",
+        "answer": "while",
+        "false_one": [
+            "for",
+            "repeat",
+            "loop",
+            "until",
+            "do"
+        ]
+    },
+    {
+        "question": "Comment appelle-t-on une fonction qui s'appelle elle-même ?",
+        "answer": "Récursive",
+        "false_one": [
+            "Lambda",
+            "Globale",
+            "Statique",
+            "Privée",
+            "Anonyme"
+        ]
+    },
+    {
+        "question": "Quel mot-clé est utilisé pour gérer les exceptions en Python ?",
+        "answer": "except",
+        "false_one": [
+            "catch",
+            "error",
+            "handle",
+            "rescue",
+            "fail"
+        ]
+    },
+    {
+        "question": "Comment déclare-t-on un dictionnaire en Python ?",
+        "answer": "d = { 'a': 1, 'b': 2 }",
+        "false_one": [
+            "d = [1,2,3]",
+            "d = (1,2,3)",
+            "d = <1,2,3>",
+            "d = 'a:1, b:2'",
+            "d = dict(1,2,3)"
+        ]
+    },
+    {
+        "question": "Quel mot-clé permet de sortir d'une boucle ?",
+        "answer": "break",
+        "false_one": [
+            "exit",
+            "stop",
+            "end",
+            "quit",
+            "return"
+        ]
+    },
+    {
+        "question": "Comment définit-on une fonction anonyme en Python ?",
+        "answer": "lambda",
+        "false_one": [
+            "def",
+            "func",
+            "anon",
+            "static",
+            "void"
+        ]
+    },
+    {
+        "question": "Quel opérateur est utilisé pour la division entière en Python ?",
+        "answer": "//",
+        "false_one": [
+            "/",
+            "%",
+            "**",
+            "div",
+            "\\"
+        ]
+    },
+    {
+        "question": "Quelle méthode permet d’ajouter un élément à la fin d’une liste ?",
+        "answer": "append()",
+        "false_one": [
+            "add()",
+            "insert()",
+            "push()",
+            "extend()",
+            "concat()"
+        ]
+    },
+    {
+        "question": "Comment importe-t-on un module en Python ?",
+        "answer": "import module",
+        "false_one": [
+            "include module",
+            "require module",
+            "using module",
+            "load module",
+            "attach module"
+        ]
+    }
+]
