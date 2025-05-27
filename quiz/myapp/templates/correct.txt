@@ -1,0 +1,6 @@
+Question 1: Comment définit-on une fonction anonyme en Python ? (::) La reponse était lambda
+Question 2: Comment affiche-t-on du texte à l'écran en Python ? (::) La reponse était print()
+Question 5: Comment importe-t-on un module en Python ? (::) La reponse était import module
+Question 6: Quel mot-clé permet de sortir d'une boucle ? (::) La reponse était break
+Question 8: Quel mot-clé est utilisé pour définir une fonction en Python ? (::) La reponse était def
+Question 9: Quel mot-clé est utilisé pour gérer les exceptions en Python ? (::) La reponse était except

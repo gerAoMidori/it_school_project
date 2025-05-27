@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Quel film a remporté l'Oscar du meilleur film en 1994 ?",
+    "answer": "Forrest Gump",
+    "false_one": [
+      "Pulp Fiction",
+      "The Shawshank Redemption",
+      "The Lion King",
+      "Schindler's List",
+      "Braveheart"
+    ]
+  },
+  {
+    "question": "Qui a réalisé le film 'Inception' ?",
+    "answer": "Christopher Nolan",
+    "false_one": [
+      "Steven Spielberg",
+      "Martin Scorsese",
+      "James Cameron",
+      "Ridley Scott",
+      "Quentin Tarantino"
+    ]
+  },
+  {
+    "question": "Quel acteur incarne le personnage de Jack Sparrow dans 'Pirates des Caraïbes' ?",
+    "answer": "Johnny Depp",
+    "false_one": [
+      "Brad Pitt",
+      "Leonardo DiCaprio",
+      "Tom Cruise",
+      "Robert Downey Jr.",
+      "Will Smith"
+    ]
+  },
+  {
+    "question": "Quel film d'animation a remporté l'Oscar du meilleur film d'animation en 2010 ?",
+    "answer": "Toy Story 3",
+    "false_one": [
+      "Shrek Forever After",
+      "How to Train Your Dragon",
+      "Despicable Me",
+      "The Illusionist",
+      "Tangled"
+    ]
+  },
+  {
+    "question": "Dans quel film Tom Hanks incarne-t-il un homme qui court à travers les États-Unis ?",
+    "answer": "Forrest Gump",
+    "false_one": [
+      "Cast Away",
+      "Saving Private Ryan",
+      "The Terminal",
+      "Big",
+      "Catch Me If You Can"
+    ]
+  },
+  {
+    "question": "Quel film met en scène un parc rempli de dinosaures recréés génétiquement ?",
+    "answer": "Jurassic Park",
+    "false_one": [
+      "King Kong",
+      "Godzilla",
+      "The Lost World",
+      "Avatar",
+      "Indiana Jones"
+    ]
+  },
+  {
+    "question": "Qui joue le rôle principal dans le film 'Titanic' ?",
+    "answer": "Leonardo DiCaprio",
+    "false_one": [
+      "Brad Pitt",
+      "Tom Cruise",
+      "Johnny Depp",
+      "Matt Damon",
+      "Ben Affleck"
+    ]
+  },
+  {
+    "question": "Quel film d’animation met en scène une fourmi nommée Flik ?",
+    "answer": "1001 pattes",
+    "false_one": [
+      "Fourmiz",
+      "Le Monde de Nemo",
+      "Toy Story",
+      "Ratatouille",
+      "Cars"
+    ]
+  },
+  {
+    "question": "Dans quel film trouve-t-on le personnage de Dark Vador ?",
+    "answer": "Star Wars",
+    "false_one": [
+      "Star Trek",
+      "Matrix",
+      "Blade Runner",
+      "Alien",
+      "Avatar"
+    ]
+  },
+  {
+    "question": "Quel film raconte l’histoire d’un poisson clown à la recherche de son fils ?",
+    "answer": "Le Monde de Nemo",
+    "false_one": [
+      "Shark Tale",
+      "Ponyo",
+      "Atlantis",
+      "La Petite Sirène",
+      "Ratatouille"
+    ]
+  },
+  {
+    "question": "Qui a réalisé le film 'Pulp Fiction' ?",
+    "answer": "Quentin Tarantino",
+    "false_one": [
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "James Cameron",
+      "Christopher Nolan",
+      "Ridley Scott"
+    ]
+  },
+  {
+    "question": "Dans quel film trouve-t-on le personnage de Gollum ?",
+    "answer": "Le Seigneur des Anneaux",
+    "false_one": [
+      "Harry Potter",
+      "Le Hobbit",
+      "Narnia",
+      "Game of Thrones",
+      "Star Wars"
+    ]
+  },
+  {
+    "question": "Quel film de science-fiction met en scène des robots appelés 'Terminators' ?",
+    "answer": "Terminator",
+    "false_one": [
+      "RoboCop",
+      "I, Robot",
+      "Blade Runner",
+      "Matrix",
+      "Transformers"
+    ]
+  },
+  {
+    "question": "Dans quel film un homme revit sans cesse la même journée ?",
+    "answer": "Un jour sans fin",
+    "false_one": [
+      "Edge of Tomorrow",
+      "Inception",
+      "Looper",
+      "Déjà Vu",
+      "Source Code"
+    ]
+  },
+  {
+    "question": "Quel film d’animation met en scène des jouets qui prennent vie ?",
+    "answer": "Toy Story",
+    "false_one": [
+      "Monstres & Cie",
+      "Ratatouille",
+      "Cars",
+      "Wall-E",
+      "Shrek"
+    ]
+  },
+  {
+    "question": "Qui incarne le personnage principal dans la saga 'Indiana Jones' ?",
+    "answer": "Harrison Ford",
+    "false_one": [
+      "Tom Hanks",
+      "Sean Connery",
+      "Nicolas Cage",
+      "Mel Gibson",
+      "Bruce Willis"
+    ]
+  },
+  {
+    "question": "Quel film musical met en scène un groupe nommé 'Queen' ?",
+    "answer": "Bohemian Rhapsody",
+    "false_one": [
+      "Rocketman",
+      "La La Land",
+      "A Star Is Born",
+      "Mamma Mia!",
+      "The Greatest Showman"
+    ]
+  },
+  {
+    "question": "Dans quel film un homme se retrouve seul sur Mars ?",
+    "answer": "Seul sur Mars",
+    "false_one": [
+      "Gravity",
+      "Interstellar",
+      "Apollo 13",
+      "Mission to Mars",
+      "The Space Between Us"
+    ]
+  },
+  {
+    "question": "Quel film d’animation raconte l’histoire d’un rat qui veut devenir chef cuisinier ?",
+    "answer": "Ratatouille",
+    "false_one": [
+      "Rango",
+      "Le Monde de Nemo",
+      "Shrek",
+      "Kung Fu Panda",
+      "Madagascar"
+    ]
+  },
+  {
+    "question": "Dans quel film un avocat est accusé à tort et s’évade de prison ?",
+    "answer": "Les Évadés",
+    "false_one": [
+      "La Ligne verte",
+      "Prison Break",
+      "Forrest Gump",
+      "Philadelphia",
+      "Le Parrain"
+    ]
+  }
+]
