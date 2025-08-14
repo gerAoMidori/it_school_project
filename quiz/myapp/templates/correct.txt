@@ -1,0 +1,9 @@
+Question 1: Quel film d’animation met en scène des jouets qui prennent vie ? (::) La reponse était Toy Story
+Question 2: Qui a réalisé le film 'Pulp Fiction' ? (::) La reponse était Quentin Tarantino
+Question 3: Quel film met en scène un parc rempli de dinosaures recréés génétiquement ? (::) La reponse était Jurassic Park
+Question 4: Quel film raconte l’histoire d’un poisson clown à la recherche de son fils ? (::) La reponse était Le Monde de Nemo
+Question 5: Quel film d’animation raconte l’histoire d’un rat qui veut devenir chef cuisinier ? (::) La reponse était Ratatouille
+Question 6: Dans quel film un homme se retrouve seul sur Mars ? (::) La reponse était Seul sur Mars
+Question 7: Quel film d’animation met en scène une fourmi nommée Flik ? (::) La reponse était 1001 pattes
+Question 8: Quel film a remporté l'Oscar du meilleur film en 1994 ? (::) La reponse était Forrest Gump
+Question 10: Quel film musical met en scène un groupe nommé 'Queen' ? (::) La reponse était Bohemian Rhapsody
