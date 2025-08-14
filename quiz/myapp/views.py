@@ -113,7 +113,7 @@ def quiz_questions(request):
     question_index = request.session.get('question_index')
     questions = request.session.get('questions')
     quiz_name = request.session.get('quiz_name')
-    print(quiz_name)
+    #print(quiz_name)
     if questions is None:
         return redirect('home')  # Redirige si les questions n'existent pas
 
@@ -134,7 +134,7 @@ def quiz_questions(request):
     question_text = question_data[0]
     correct_answer = question_data[1]
     answers = question_data[2]
-    print("Salut, je suis dans quiz_questions")  # Pour le débogage
+    #print("Salut, je suis dans quiz_questions")  # Pour le débogage
     return render(request, 'quiz.html', {
         'question_text': question_text,
         'answers': answers,
